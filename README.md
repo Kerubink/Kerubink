@@ -1,4 +1,4 @@
-# ![Banner](./images/banner.gif)
+# ![Banner](./images/banner2.gif)
 # Olá, eu sou Kauã Kelvyn! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Kerubink?label=Follow&style=social)
