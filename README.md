@@ -1,8 +1,5 @@
-# ![Banner](./images/banner2.gif)
+ [Banner](./images/banner2.gif)
 # Olá, eu sou Kauã Kelvyn! 👋
-
-![GitHub followers](https://img.shields.io/github/followers/Kerubink?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Kerubink?label=Stars)
 
 ## 🚀 Sobre mim
 
@@ -28,10 +25,14 @@ Sou um desenvolvedor Front-end apaixonado por criar experiências web intuitivas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kerubink&show_icons=true&theme=radical">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerubink&layout=compact&theme=radical">
+</div>
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerubink&show_icons=true&theme=radical)
+![Seu Nome GitHub Stats]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerubink&layout=compact&theme=radical)
+![Top Langs]()
 
 ## 🏆 Conquistas
 
