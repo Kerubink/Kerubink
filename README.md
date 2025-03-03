@@ -1,4 +1,4 @@
- [Banner](./images/banner2.gif)
+![Banner](./images/banner2.gif)
 # Olá, eu sou Kauã Kelvyn! 👋
 
 ## 🚀 Sobre mim
