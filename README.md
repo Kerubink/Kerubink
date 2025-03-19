@@ -9,9 +9,9 @@
 
 Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**. 
 
-## 🛠️ Sobre mim   
+## 🛠️ Sobre mim  
 
-
+![](https://komarev.com/ghpvc/?username=kerubink)
 <p align="left">
   <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="270">
 </p>
