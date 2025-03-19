@@ -16,24 +16,21 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="270">
 </p>
 
-💻 **Desenvolvimento:** Construo **aplicações web fullstack** focadas em **performance, escalabilidade e segurança**.  
+💻 **Desenvolvimento Fullstack:** Crio **aplicações web completas**, com foco em **performance, escalabilidade e segurança**, utilizando **React, Node.js, TypeScript**, **Tailwind CSS** e bancos de dados **SQL/NoSQL**.  
 
-🔐 **Cyber Security:** Estudo **pentest e análise de vulnerabilidades** para fortalecer a segurança de aplicações e redes.  
+🔐 **Cyber Security:** Estudo **pentest, análise de vulnerabilidades e segurança de redes**, aplicando conhecimentos para **fortalecer aplicações e sistemas**.  
 
-⚙️ **Tecnologias:** Trabalho com **React, Node.js, TypeScript, Tailwind CSS, Firebase** e bancos de dados SQL/NoSQL.  
+⚙️ **Tecnologias:** Trabalho com **React**, **Node.js**, **Firebase**, e bancos de dados **SQL/NoSQL**, sempre buscando implementar soluções seguras e escaláveis.  
 
-🔎 **Análise de Segurança:** Exploro **testes de invasão e engenharia reversa** em sistemas e aplicações web como parte do meu aprendizado.  
+🔎 **Análise de Segurança:** Realizo **testes de invasão** e estudo técnicas de **engenharia reversa** para identificar e corrigir falhas de segurança em sistemas web.  
 
-🛡️ **Defesa de Sistemas:** Investigo **estratégias de mitigação** para entender como fortalecer aplicações.  
+🛡️ **Defesa de Sistemas:** Pesquiso **estratégias de mitigação** e segurança de redes, buscando proteger as aplicações de ataques cibernéticos.  
 
-🤖 **Automação:** Desenvolvo **scripts** para automatizar tarefas em pentest e análise de segurança, como **scan de vulnerabilidades**, coleta de informações e exploração de falhas, visando otimizar processos e melhorar a eficiência dos testes.
+🤖 **Automação:** Desenvolvo **scripts** para **automatizar processos** em pentest e análise de segurança, além de otimizar fluxos de desenvolvimento.  
 
-🎯 **Interesses:** Tenho grande interesse em **segurança ofensiva**, **engenharia reversa** e **desenvolvimento seguro**, sempre buscando entender como falhas podem ser exploradas para melhorar a defesa de sistemas e fortalecer a segurança digital.
+🎯 **Interesses:** Tenho grande interesse em **desenvolvimento seguro**, **segurança ofensiva**, **engenharia reversa** e **melhoria contínua de sistemas**.  
 
-📚 **Atualmente estudando:** Estou focado em **testes de invasão**, **forense digital** e **segurança de redes**, buscando aprimorar meu conhecimento em ferramentas, técnicas e metodologias de segurança cibernética.
-
-
-
+📚 **Estudos atuais:** Aperfeiçoando habilidades tanto em **desenvolvimento fullstack** quanto em **segurança ofensiva**, **forense digital** e **testes de invasão**.
 
 ## 🔥 Tecnologias & Ferramentas  
 
