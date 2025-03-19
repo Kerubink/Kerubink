@@ -15,6 +15,7 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
 <p align="left">
   <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="270">
 </p>
+
 💻 **Desenvolvimento Fullstack:** Crio **aplicações web escaláveis** com **React**, **Node.js**, **TypeScript**, **Tailwind CSS** e bancos de dados **SQL/NoSQL**.  
 
 🔐 **Cyber Security:** Estudo **pentest**, **análise de vulnerabilidades** e **segurança de redes** para fortalecer sistemas.  
