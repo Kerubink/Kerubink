@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/736x/9a/90/e9/9a90e96a50de62462938ac01b063f78d.jpg" style="width: 100%; height: auto;" />
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/9a/90/e9/9a90e96a50de62462938ac01b063f78d.jpg" style="width: 100%; height: auto; max-width: 1470px;" />
+</p>
 
 <h1 align="center" style="color: #6495ed; font-size: 36px; font-weight: 900;"><b>Kerubyn aqui ✨!</b></h1>
 
