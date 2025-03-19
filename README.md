@@ -12,21 +12,18 @@
 
 Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**.  
 
-<table>
-  <tr>
-    <td>
-      
+
+<p align="left">
+  <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="180">
+</p>
+
 💻 **Desenvolvimento:** Construo **aplicações web fullstack** usando tecnologias modernas e escaláveis.  
 🔐 **Cyber Security:** Estudo **pentest, análise de vulnerabilidades e hacking ético**.  
 🎯 **Interesses:** Desenvolvimento seguro, automação de pentest e exploração de falhas.  
 📚 **Atualmente estudando:** Segurança ofensiva, redes, forense digital e testes de invasão.  
-    </td>
-    <td>
-      <img style="border-radius: 20px" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="250">
-    </td>
-  </tr>
-</table>
----
+
+
+
 
 ## 🔥 Tecnologias & Ferramentas  
 
