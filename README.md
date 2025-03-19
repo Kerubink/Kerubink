@@ -2,20 +2,30 @@
   <img src="./images/BANNER.png" width="100%">
 </p>
 
+<h1 align="center" style="color: #6495ed; font-size: 36px; font-weight: 900;"><b>Kerubyn aqui ✨!</b></h1>
 
-<h1 align="center">🌍 Olá, eu sou Kauã Kelvyn! 👋</h1>
 
----
+<p align="center" style="color: #fff; font-size: 20px"><b>Olá, eu sou Kauã Kelvyn!</b></h4>
+
 
 ## 🛠️ Sobre mim  
 
 Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**.  
 
+<table>
+  <tr>
+    <td>
+      
 💻 **Desenvolvimento:** Construo **aplicações web fullstack** usando tecnologias modernas e escaláveis.  
 🔐 **Cyber Security:** Estudo **pentest, análise de vulnerabilidades e hacking ético**.  
 🎯 **Interesses:** Desenvolvimento seguro, automação de pentest e exploração de falhas.  
 📚 **Atualmente estudando:** Segurança ofensiva, redes, forense digital e testes de invasão.  
-
+    </td>
+    <td>
+      <img style="border-radius: 20px" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="250">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🔥 Tecnologias & Ferramentas  
