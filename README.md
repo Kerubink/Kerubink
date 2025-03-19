@@ -10,7 +10,7 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
 
 ## 🛠️ Sobre mim  
 
-![](https://komarev.com/ghpvc/?username=kerubink)
+![](https://komarev.com/ghpvc/?username=kerubink&abbreviated=true)
 <p align="left">
   <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="270">
 </p>
