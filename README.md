@@ -7,25 +7,30 @@
 
 <p align="center" style="color: #fff; font-size: 20px"><b>Olá, eu sou Kauã Kelvyn!</b></h4>
 
+Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**. 
 
-## 🛠️ Sobre mim  
-
-Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**.  
+## 🛠️ Sobre mim   
 
 
 <p align="left">
-  <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="200">
+  <img align="right" src="https://i.pinimg.com/736x/30/f8/56/30f85663a6807ca681cfe3bcbd841b66.jpg" width="300">
 </p>
 
-💻 **Desenvolvimento:** Construo **aplicações web fullstack** usando tecnologias modernas e escaláveis.  
-🔐 **Cyber Security:** Estudo **pentest, análise de vulnerabilidades e hacking ético**.  
-🎯 **Interesses:** Desenvolvimento seguro, automação de pentest e exploração de falhas.  
-📚 **Atualmente estudando:** Segurança ofensiva, redes, forense digital e testes de invasão.  
-💻 **Desenvolvimento:** Construo **aplicações web fullstack** usando tecnologias modernas e escaláveis.  
-🔐 **Cyber Security:** Estudo **pentest, análise de vulnerabilidades e hacking ético**.  
-🎯 **Interesses:** Desenvolvimento seguro, automação de pentest e exploração de falhas.  
-📚 **Atualmente estudando:** Segurança ofensiva, redes, forense digital e testes de invasão.  
+💻 **Desenvolvimento:** Construo **aplicações web fullstack** focadas em **performance, escalabilidade e segurança**.  
 
+🔐 **Cyber Security:** Estudo **pentest e análise de vulnerabilidades** para fortalecer a segurança de aplicações e redes.  
+
+⚙️ **Tecnologias:** Trabalho com **React, Node.js, TypeScript, Tailwind CSS, Firebase** e bancos de dados SQL/NoSQL.  
+
+🔎 **Análise de Segurança:** Exploro **testes de invasão e engenharia reversa** em sistemas e aplicações web como parte do meu aprendizado.  
+
+🛡️ **Defesa de Sistemas:** Investigo **estratégias de mitigação** para entender como fortalecer aplicações.  
+
+🤖 **Automação:** Desenvolvo **scripts simples** para otimizar tarefas em pentest e análise de segurança.  
+
+🎯 **Interesses:** Segurança ofensiva, engenharia reversa e desenvolvimento seguro.  
+
+📚 **Atualmente estudando:** Testes de invasão, forense digital e segurança de redes.  
 
 
 ## 🔥 Tecnologias & Ferramentas  
