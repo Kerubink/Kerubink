@@ -43,16 +43,20 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/seuprofile)
 </div>
 
+<h2 align="center">🔥 Tecnologias & Ferramentas</h2>
 
-## 🔥 Tecnologias & Ferramentas
-
-### 🖥️ **Desenvolvimento Fullstack**
+### 🖥️ **Ferramentas de Desenvolvimento**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,firebase,docker,figma,github,git,kubernetes,vim,python,vite,kali,arch" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,firebase,docker,figma,github,git" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,vite,kali,arch" />
+  </a>
+</p>
 
 ### 🔐 **Cyber Security & Hacking**
 <p align="center">
@@ -63,9 +67,21 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   <img src="https://img.shields.io/badge/-John%20The%20Ripper-FF0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Burp%20Suite-F26618?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/-OSINT-000000?style=for-the-badge&logo=intelligence&logoColor=white">
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLMap-00B2A9?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nikto-00A300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Hashcat-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Snort-FFCC00?style=for-the-badge&logo=snort&logoColor=black">
+  <img src="https://img.shields.io/badge/-Cobalt%20Strike-4E4E4E?style=for-the-badge">
 </p>
 
----
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerubink&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerubink&layout=compact&theme=dark" alt="Estatísticas do GitHub" height="195">
+</p>
 
 ## ☕ Buy Me a Coffee  
 
