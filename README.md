@@ -83,13 +83,13 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerubink&layout=compact&theme=dark" alt="Estatísticas do GitHub" height="195">
 </p>
 
-## ☕ Buy Me a Coffee  
+<!-- ## ☕ Buy Me a Coffee  
 
 Se gosta do meu trabalho e quer apoiar meu aprendizado e projetos, você pode me dar um café! Isso me ajuda a continuar explorando **desenvolvimento e segurança** e criar mais conteúdos para a comunidade.  
 
 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kauakelvyn)
 
----
+--- -->
 
 ## 📬 Entre em Contato  
 
@@ -103,5 +103,5 @@ Se quiser trocar uma ideia sobre **Desenvolvimento**, **Cyber Security** ou qual
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/SzV5Zyb.gif" width="600">
+  <img src="https://i.pinimg.com/736x/9b/93/50/9b9350ad52baa585413765d064d53bca.jpg" width="100%">
 </p>
