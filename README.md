@@ -90,7 +90,7 @@ Se gosta do meu trabalho e quer apoiar meu aprendizado e projetos, você pode me
 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kauakelvyn)
 
 --- -->
-
+<!-- 
 ## 📬 Entre em Contato  
 
 Se quiser trocar uma ideia sobre **Desenvolvimento**, **Cyber Security** ou qualquer outro assunto tech, entre em contato comigo:  
@@ -98,10 +98,10 @@ Se quiser trocar uma ideia sobre **Desenvolvimento**, **Cyber Security** ou qual
 📧 **Email:** [kauakelvyn.dev1@gmail.com](mailto:kauakelvyn.dev1@gmail.com)  
 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/kau%C3%A3-moraes-079288303/)  
 🐱 **GitHub:** [Kerubink](https://github.com/Kerubink)  
-🐦 **Twitter/X:** [@kauakelvyn](https://twitter.com/kauakelvyn)  
+🐦 **Twitter/X:** [@kauakelvyn](https://twitter.com/kauakelvyn)   -->
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9b/93/50/9b9350ad52baa585413765d064d53bca.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/9b/93/50/9b9350ad52baa585413765d064d53bca.jpg" width="100%" height="300">
 </p>
