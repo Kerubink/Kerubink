@@ -33,6 +33,17 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
 📚 **Estudos atuais:** Aperfeiçoando habilidades em **desenvolvimento fullstack** e **segurança ofensiva**.
 
 
+
+
+<div align="right">
+  <h3 align="right"><b>✨ Conecte-se comigo:</b></h3>
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinstagram)
+  [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/seuprofile)
+</div>
+
+
 ## 🔥 Tecnologias & Ferramentas  
 
 ### 🖥️ **Desenvolvimento Fullstack**
