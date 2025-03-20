@@ -46,6 +46,7 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
 
 </div>
 
+</br>
 <h2 align="center">🔥 Tecnologias & Ferramentas</h2>
 
 ### 🖥️ **Ferramentas de Desenvolvimento**
@@ -78,7 +79,7 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   <img src="https://img.shields.io/badge/-Cobalt%20Strike-4E4E4E?style=for-the-badge">
 </p>
 
-
+</br>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -86,13 +87,19 @@ Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerubink&layout=compact&theme=dark" alt="Estatísticas do GitHub" height="195">
 </p>
 
-<!-- ## ☕ Buy Me a Coffee  
+</br>
+<h2 align="center">☕ Buy Me a Coffee</h2>
 
-Se gosta do meu trabalho e quer apoiar meu aprendizado e projetos, você pode me dar um café! Isso me ajuda a continuar explorando **desenvolvimento e segurança** e criar mais conteúdos para a comunidade.  
+<p align="center">
+  Se gosta do meu trabalho e quer apoiar meu aprendizado e projetos, você pode me dar um café! Isso me ajuda a continuar explorando desenvolvimento e segurança e criar mais conteúdos para a comunidade.  
+</p>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kauakelvyn)
+<div align="center">
+  <a href="https://me-compre-um-cafezinho.vercel.app/">
+    <img src="https://img.shields.io/badge/☕-Me%20Compre%20um%20Cafezinho-FFDD00?style=for-the-badge&logo=coffee&logoColor=black" alt="Me Compre um Cafezinho">
+  </a>
+</div>
 
---- -->
 <!-- 
 ## 📬 Entre em Contato  
 
@@ -103,7 +110,10 @@ Se quiser trocar uma ideia sobre **Desenvolvimento**, **Cyber Security** ou qual
 🐱 **GitHub:** [Kerubink](https://github.com/Kerubink)  
 🐦 **Twitter/X:** [@kauakelvyn](https://twitter.com/kauakelvyn)   -->
 
----
+
+</br>
+</br>
+</br>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/cb/10/99/cb109999e76292b5288868a61c043b90.gif" width="100%" height="300">
