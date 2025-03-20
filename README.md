@@ -106,5 +106,5 @@ Se quiser trocar uma ideia sobre **Desenvolvimento**, **Cyber Security** ou qual
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9b/93/50/9b9350ad52baa585413765d064d53bca.jpg" width="100%" height="300">
+  <img src="https://i.pinimg.com/originals/cb/10/99/cb109999e76292b5288868a61c043b90.gif" width="100%" height="300">
 </p>
