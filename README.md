@@ -1,14 +1,17 @@
 ![Banner](./images/banner7.png)
 
+<p align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&color=F73838&center=true&vCenter=true&width=1012&lines=Kerubyn+aqui+%E2%9C%A8!;Um+codigo+de+cada+vez...;Transformando+ideias+em+c%C3%B3digo!;Explorando+a+ciberseguran%C3%A7a!;Desafios+s%C3%A3o+oportunidades!;Pronto+para+a+pr%C3%B3xima+miss%C3%A3o!;Aprendendo+e+crescendo+todos+os+dias!;Desbravando+o+mundo+do+hacking+%C3%A9tico!)](https://git.io/typing-svg)
 
-<h1 align="center" style="color: #6495ed; font-size: 36px; font-weight: 900;"><b>Kerubyn aqui ✨!</b></h1>
+</p>
 
 
 <p align="center" style="color: #fff; font-size: 20px"><b>Olá, eu sou Kauã Kelvyn!</b></h4>
 
 Sou um **Desenvolvedor Fullstack** e **Estudante de Cyber Security**, apaixonado por tecnologia, inovação e segurança digital. Gosto de criar aplicações modernas e seguras, explorando o mundo da **segurança ofensiva e defesa de sistemas**. 
 
-## 🛠️ Sobre mim  
+## ✨ Sobre mim  
 
 ![](https://komarev.com/ghpvc/?username=kerubink&abbreviated=true)
 <p align="left">
